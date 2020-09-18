@@ -1,6 +1,6 @@
 # How to create a reproducible PDF in R markdown with APA formatting
 
-An basic example of how to prepare an APA style PDF using <a href="https://rmarkdown.rstudio.com/">R Markdown</a> in <a href="https://rstudio.com/">RStudio</a>.
+A basic example of how to prepare an APA style PDF using <a href="https://rmarkdown.rstudio.com/">R Markdown</a> in <a href="https://rstudio.com/">RStudio</a>.
 
 
 ``` YAML
